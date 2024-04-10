@@ -1,20 +1,20 @@
-#Steps to execute
+# Steps to execute
 
-###Clone the Repository
+### Clone the Repository
 
 ```
 git clone https://github.com/Aswini2414/Nodejs_question.git
 ```
 
-###Go to the Project directory
+### Go to the Project directory
 
-###Install Dependencies
+### Install Dependencies
 
 ```
 npm install
 ```
 
-###Start the server
+### Start the server
 
 ```
 npm start
